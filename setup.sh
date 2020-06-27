@@ -2,3 +2,5 @@
 WEBFOLDER=/var/www/html
 
 cp index.html $WEBFOLDER
+
+certbot renew
