@@ -1,0 +1,20 @@
+html {
+  background-color: #282828;
+  color: #ebdbb2;
+}
+
+a {
+  color: green;
+   text-decoration: none;
+}
+
+#profiles ul {
+  list-style-type: none;
+  padding-left: 5px;
+}
+
+#profiles img {
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+}
