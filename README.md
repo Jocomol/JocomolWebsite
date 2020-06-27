@@ -1,2 +1,2 @@
-# JocomolWebsite
-My Website
+# Jocomol Website
+Work in Progress
