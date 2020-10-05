@@ -1,6 +1,6 @@
 #!/bin/bash
 WEBFOLDER=/var/www/html
-GITFOLDER=/home/admin/Git/JocomolWebsite
+GITFOLDER=/home/webadmin/Git/JocomolWebsite
 
 cp $GITFOLDER/index.html $WEBFOLDER
 cp -r $GITFOLDER/img $WEBFOLDER
