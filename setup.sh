@@ -1,5 +1,5 @@
 #!/bin/bash
-WEBFOLDER=/var/www/html/jocomol.ch
+WEBFOLDER=/var/www/html/jocomol
 GITFOLDER=/home/webadmin/Git/JocomolWebsite
 
 cp $GITFOLDER/index.html $WEBFOLDER
